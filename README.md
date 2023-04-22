@@ -7,3 +7,5 @@ Skills :
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,cpp,cs,dotnet" />
   </a>
 </p>
+
+My Email : <a href="mailto:KianaKermani2001.gmail.com">KianaKermani2001.gmail.com</a>
