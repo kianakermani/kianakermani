@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning front-end development.
 
 Skills :
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,cpp,cs,dotnet" />
   </a>
