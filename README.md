@@ -1,3 +1,8 @@
-### Hi there 👋
-- 🌱 I’m currently learning front-end development (Html , css , java script , ajax , react , ...)
-- I'm also familiar with c# .Net , c++ , python , ...
+### Hi there 👋 I'm Kiana
+- 🌱 I’m currently learning front-end development.
+Skills :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,dotnet" />
+  </a>
+</p>
