@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kiana
-- 🌱 I’m currently learning front-end development and creating projects in Asp.Net .
+- 🌱 I’m currently learning front-end development.
 
 Skills :
 <p align="left">
