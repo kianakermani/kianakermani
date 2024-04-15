@@ -7,6 +7,7 @@ Skills :
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind"/>
   </a>
 </p>
-<a href="https://github.com/kianakermani/kianakermani">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?kianakermani" />
-</a>
+
+<div align="center">
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?kianakermani=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"  />
+</div>
