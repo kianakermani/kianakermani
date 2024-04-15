@@ -8,6 +8,4 @@ Skills :
   </a>
 </p>
 
-<div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?kianakermani=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"  />
-</div>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@kianakermani" frameborder="0"></iframe>
