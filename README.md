@@ -9,7 +9,7 @@ Skills :
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kianakermani&show_icons=true&locale=en" alt="kianakermani" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianakermani&" alt="kianakermani" /></p>
 
