@@ -7,7 +7,6 @@ Skills :
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind"/>
   </a>
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kianakermani.kianakermani&"  />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kianakermani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
