@@ -8,5 +8,5 @@ Skills :
   </a>
 </p>
 <a href="https://github.com/anselal/anselal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?kianakermani=anselal)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?kianakermani=anselal" />
 </a>
