@@ -10,7 +10,7 @@ Skills :
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kianakermani&show_icons=true&locale=en&layout=compact" alt="kianakermani" /></p>
+<p><img align="left" src="(https://ionicabizau.github.io/github-profile-languages/api.html?@kianakermani)" alt="kianakermani" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianakermani&" alt="kianakermani" /></p>
 
 
