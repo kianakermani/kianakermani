@@ -4,7 +4,7 @@
 Skills :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,sass,react,ts,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,ts,sass,tailwind"/>
   </a>
 </p>
 
