@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kiana
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently learning front-end Engineer.
 
 Skills :
 <p align="left">
