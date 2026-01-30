@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Kiana
 - On a journey to become a Frontend Engineer 🚀
-- Learning C# and .NET step by step to grow into a Full-Stack .NET Developer.
+- Learning C# and .NET step by step while building projects toward Full-Stack .NET development.
 
 
-Skills :
+Skills & Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,ts,sass,tailwind,cs,dotnet,azure,visualstudio,vscode,vite"/>
