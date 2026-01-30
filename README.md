@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Kiana
-- 🌱 I’m currently learning front-end Engineer.
+- On a journey to become a Frontend Engineer 🚀
+Learning C# and .NET step by step to grow into a Full-Stack .NET Developer.
 
 Skills :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,ts,sass,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,ts,sass,tailwind,cs"/>
   </a>
 </p>
 
